@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 91f045164256b92468c74265744c0eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2191157203200727424
+    second: predatormask__0044_fire_10_0
+  - first:
+      213: -4109984141375602762
+    second: predatormask__0044_fire_10_1
+  - first:
+      213: 1432313398537892325
+    second: predatormask__0044_fire_10_2
+  - first:
+      213: -2246480448129459088
+    second: predatormask__0044_fire_10_3
+  - first:
+      213: 4133022801427679327
+    second: predatormask__0044_fire_10_4
+  - first:
+      213: 7618228617777586496
+    second: predatormask__0044_fire_10_5
+  - first:
+      213: -7734404020830554370
+    second: predatormask__0044_fire_10_6
+  - first:
+      213: -3722589427645534473
+    second: predatormask__0044_fire_10_7
+  - first:
+      213: -2547896469847089327
+    second: predatormask__0044_fire_10_8
+  - first:
+      213: -2216726417530761023
+    second: predatormask__0044_fire_10_9
+  - first:
+      213: -5811698687837500081
+    second: predatormask__0044_fire_10_10
+  - first:
+      213: 6509443890977077431
+    second: predatormask__0044_fire_10_11
+  - first:
+      213: 6904806676727383087
+    second: predatormask__0044_fire_10_12
+  - first:
+      213: -4048677297479621628
+    second: predatormask__0044_fire_10_13
+  - first:
+      213: -4316117653537160461
+    second: predatormask__0044_fire_10_14
+  - first:
+      213: -2247080548528096816
+    second: predatormask__0044_fire_10_15
+  - first:
+      213: -5134958617434760286
+    second: predatormask__0044_fire_10_16
+  - first:
+      213: 1636504293273620109
+    second: predatormask__0044_fire_10_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 223
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec9f1fbf706b610800000000000000
+      internalID: 1636504293273620109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 273
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf71d4f23766f6c0800000000000000
+      internalID: -4109984141375602762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 210
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e132ee727990e310800000000000000
+      internalID: 1432313398537892325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 244
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c126e4fe5e2d0e0800000000000000
+      internalID: -2246480448129459088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58cfa717527b5930800000000000000
+      internalID: 4133022801427679327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 183
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412954909269b960800000000000000
+      internalID: 7618228617777586496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ba0d8580e9a490800000000000000
+      internalID: -7734404020830554370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe209083a4b65cc0800000000000000
+      internalID: -3722589427645534473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 140
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fda46f8ad04acd0800000000000000
+      internalID: -2547896469847089327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0dad6611b9c31e0800000000000000
+      internalID: -2216726417530761023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d87d9c5d2b85fa0800000000000000
+      internalID: -5811698687837500081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: predatormask__0044_fire_10_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 160
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 3, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87607fab0365a50800000000000000
+      internalID: 6509443890977077431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
